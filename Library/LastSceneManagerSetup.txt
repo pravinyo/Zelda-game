@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DataFiles/Scenes/FirstScene.unity
+- path: Assets/DataFiles/Scenes/BossScene.unity
   isLoaded: 1
   isActive: 1

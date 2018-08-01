@@ -1,6 +1,6 @@
-WebGL
+WindowsStandalone
 PlayerPath?
-F:/Unity Project/Indie Game/Build/web
+F:/Unity Project/Indie Game/Build/warrior/warrior.exe
 SceneListBegin?
 Assets/DataFiles/Scenes/FirstScene.unity
 Assets/DataFiles/Scenes/BossScene.unity
@@ -20,6 +20,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 607d64d2c4bc76ac9876e6f7b9cc7edf UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 01d83e7b8fd72b298e4b18054d7abbc2 Assembly-CSharp.dll:.Sword
 9fa30c9996277d21848421ce47ef7144 Assembly-CSharp.dll:.Dragon
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CamFollow
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -286,4 +287,3 @@ a924c90a95cf65003f662aa5e30abb6b Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 01e6f145049f3a676df6dc247eabf176 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CamFollow
